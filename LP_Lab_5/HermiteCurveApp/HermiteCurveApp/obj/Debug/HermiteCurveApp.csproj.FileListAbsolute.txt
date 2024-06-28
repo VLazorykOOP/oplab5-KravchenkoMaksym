@@ -1,0 +1,9 @@
+D:\Stydents\LP\LP_Lab_5\HermiteCurveApp\HermiteCurveApp\bin\Debug\HermiteCurveApp.exe.config
+D:\Stydents\LP\LP_Lab_5\HermiteCurveApp\HermiteCurveApp\bin\Debug\HermiteCurveApp.exe
+D:\Stydents\LP\LP_Lab_5\HermiteCurveApp\HermiteCurveApp\bin\Debug\HermiteCurveApp.pdb
+D:\Stydents\LP\LP_Lab_5\HermiteCurveApp\HermiteCurveApp\obj\Debug\HermiteCurveApp.csproj.AssemblyReference.cache
+D:\Stydents\LP\LP_Lab_5\HermiteCurveApp\HermiteCurveApp\obj\Debug\HermiteCurveApp.Properties.Resources.resources
+D:\Stydents\LP\LP_Lab_5\HermiteCurveApp\HermiteCurveApp\obj\Debug\HermiteCurveApp.csproj.GenerateResource.cache
+D:\Stydents\LP\LP_Lab_5\HermiteCurveApp\HermiteCurveApp\obj\Debug\HermiteCurveApp.csproj.CoreCompileInputs.cache
+D:\Stydents\LP\LP_Lab_5\HermiteCurveApp\HermiteCurveApp\obj\Debug\HermiteCurveApp.exe
+D:\Stydents\LP\LP_Lab_5\HermiteCurveApp\HermiteCurveApp\obj\Debug\HermiteCurveApp.pdb

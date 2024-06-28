@@ -1,0 +1,9 @@
+D:\Stydents\LP\LP_Lab_5\KochFractal\KochFractal\bin\Debug\KochFractal.exe.config
+D:\Stydents\LP\LP_Lab_5\KochFractal\KochFractal\bin\Debug\KochFractal.exe
+D:\Stydents\LP\LP_Lab_5\KochFractal\KochFractal\bin\Debug\KochFractal.pdb
+D:\Stydents\LP\LP_Lab_5\KochFractal\KochFractal\obj\Debug\KochFractal.csproj.AssemblyReference.cache
+D:\Stydents\LP\LP_Lab_5\KochFractal\KochFractal\obj\Debug\KochFractal.Properties.Resources.resources
+D:\Stydents\LP\LP_Lab_5\KochFractal\KochFractal\obj\Debug\KochFractal.csproj.GenerateResource.cache
+D:\Stydents\LP\LP_Lab_5\KochFractal\KochFractal\obj\Debug\KochFractal.csproj.CoreCompileInputs.cache
+D:\Stydents\LP\LP_Lab_5\KochFractal\KochFractal\obj\Debug\KochFractal.exe
+D:\Stydents\LP\LP_Lab_5\KochFractal\KochFractal\obj\Debug\KochFractal.pdb
